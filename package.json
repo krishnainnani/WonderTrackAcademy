@@ -1,0 +1,16 @@
+{
+  "name": "WonderTrack",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "description": "Wonder Track Academy landing page with Join Us enrollment capture.",
+  "main": "server.js",
+  "type": "commonjs",
+  "packages": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
