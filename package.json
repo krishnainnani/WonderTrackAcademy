@@ -1,0 +1,13 @@
+{
+  "name": "wonder-track-academy",
+  "version": "1.0.0",
+  "description": "Wonder Track Academy landing page with Join Us enrollment capture.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
